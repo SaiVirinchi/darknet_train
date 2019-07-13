@@ -10,7 +10,7 @@ import os
 import tkinter.filedialog
 
 def getURLs(URL):
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(executable_path='[add_chrome_driver_absolute_path]' )
     driver.get(URL)
     page = driver.page_source
     print(page)
