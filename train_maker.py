@@ -1,7 +1,7 @@
 import os
 path=os.path.dirname(os.path.abspath(__file__))
 #path='[enter path of your directory where the images are stored]'
-print('Your Image folder name
+print('Your Image folder name')
 image= input()
 imgList=os.listdir(image)
 print(imgList)
