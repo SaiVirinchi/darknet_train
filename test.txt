@@ -1,0 +1,11 @@
+/content/gdrive/My Drive/darknet_test2/img/000005.jpg
+/content/gdrive/My Drive/darknet_test2/img/000013.jpg
+/content/gdrive/My Drive/darknet_test2/img/000089.jpg
+/content/gdrive/My Drive/darknet_test2/img/000030.jpg
+/content/gdrive/My Drive/darknet_test2/img/000020.jpg
+/content/gdrive/My Drive/darknet_test2/img/000046.jpg
+/content/gdrive/My Drive/darknet_test2/img/000080.jpg
+/content/gdrive/My Drive/darknet_test2/img/000067.jpg
+/content/gdrive/My Drive/darknet_test2/img/000000.jpg
+/content/gdrive/My Drive/darknet_test2/img/000094.jpg
+/content/gdrive/My Drive/darknet_test2/img/000034.jpg
